@@ -1,0 +1,66 @@
+body{
+  background-image: url('background.jpg');
+  background-size: cover;
+  color: white;
+}
+
+.container-1{
+  width: 900px;
+  height: auto;
+  margin: auto;
+  background-color: rgba(0, 0, 0, 0.5);
+  border-radius: 10px;
+}
+
+.container-2{
+  width: 750px;
+  height: auto;
+  margin: auto;
+  padding: 50px 5px;
+}
+
+#logo{
+  width: 200px;
+}
+
+header > h2{
+  color: rgb(57, 255, 20);
+}
+
+header, nav{
+  text-align: center;
+}
+
+nav{
+  padding: 10px;
+  background-color: rgb(57, 255, 20);
+}
+
+div > h4{
+  display: inline-block;
+}
+
+div > span{
+  display: block;
+}
+
+.battery-life-Gino{
+  height: 20px;
+  width: 270px;
+  background-color: rgb(245, 170, 40);
+  border-radius: 5px;
+}
+
+.battery-life-Mike{
+  height: 20px;
+  width: 400px;
+  background-color: rgb(57, 255, 20);
+  border-radius: 5px;
+}
+
+.battery-life-Fede{
+  height: 20px;
+  width: 120px;
+  background-color: rgb(200, 35, 29);
+  border-radius: 5px;
+}
